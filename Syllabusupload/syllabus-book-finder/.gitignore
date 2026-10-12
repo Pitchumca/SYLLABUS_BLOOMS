@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Application uploads & exports (keep sample_data)
+uploads/*
+!uploads/.gitkeep
+exports/*
+!exports/.gitkeep
+
+# Environment variables
+.env
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

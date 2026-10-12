@@ -1,0 +1,47 @@
+VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+SCHEME OF TEACHING AND EXAMINATION (CREDIT BASED SYSTEM)
+
+Course Title: Advanced Data Structures and Algorithms
+Course Code: 21CS42
+CIE Marks: 50
+SEE Marks: 50
+Total Hours: 50
+Credits: 04
+
+COURSE OBJECTIVES:
+1. Understand the design principles and analysis of complex data structures.
+2. Formulate and solve real-world problems using graph algorithms and dynamic programming.
+3. Evaluate algorithm complexity using asymptotic notations.
+
+MODULE 1: Linear & Hierarchical Structures
+Review of Stacks, Queues, Circular Queues, Priority Queues. Binary Search Trees, AVL Trees, 2-3 Trees, Red-Black Trees, B-Trees and B+ Trees: Operations, Insertion, Deletion, and Amortized Analysis.
+
+MODULE 2: Advanced Graph Algorithms & Flow Networks
+Topological sorting, Strongly Connected Components, Minimum Spanning Trees (Prim's and Kruskal's), Single Source Shortest Path (Dijkstra and Bellman-Ford), All-Pairs Shortest Path (Floyd-Warshall), Maximum Flow: Ford-Fulkerson algorithm.
+
+MODULE 3: Disjoint Sets & Dynamic Programming
+Disjoint set data structures, Union by rank and path compression. Dynamic programming paradigm: Matrix chain multiplication, Longest common subsequence, 0/1 Knapsack problem, Optimal binary search trees.
+
+MODULE 4: String Matching & Randomized Algorithms
+Naive string matching, Rabin-Karp algorithm, Knuth-Morris-Pratt (KMP) algorithm, Boyer-Moore algorithm, Suffix trees. Randomized quicksort, Primality testing.
+
+MODULE 5: NP-Completeness & Approximation Algorithms
+Class P, NP, NP-Hard, and NP-Complete problems. Cook's Theorem statement, Reducibility proofs: Vertex Cover, Clique, Subset Sum, Hamiltonian Cycle. Approximation algorithms for Vertex Cover and Traveling Salesperson Problem.
+
+TEXT BOOKS:
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, "Introduction to Algorithms", 3rd Edition, PHI Learning / MIT Press, 2009, ISBN: 978-0262033848.
+2. Mark Allen Weiss, "Data Structures and Algorithm Analysis in C++", 4th Edition, Pearson Education, 2014, ISBN: 978-0132847377.
+3. Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran, "Fundamentals of Computer Algorithms", 2nd Edition, Universities Press, 2008, ISBN: 978-8173716126.
+
+REFERENCE BOOKS:
+1. Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser, "Data Structures and Algorithms in Python", 1st Edition, John Wiley & Sons, 2013, ISBN: 978-1118290279.
+2. Robert Sedgewick, Kevin Wayne, "Algorithms", 4th Edition, Addison-Wesley Professional, 2011, ISBN: 978-0321573513.
+3. Anany Levitin, "Introduction to the Design and Analysis of Algorithms", 3rd Edition, Pearson, 2012, ISBN: 978-0132316811.
+4. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman, "Data Structures and Algorithms", 1st Edition, Pearson Education, 1983, ISBN: 978-0201000238.
+
+COURSE OUTCOMES:
+Upon successful completion of the course, students will be able to:
+CO1: Analyze worst-case and amortized running times of complex algorithms.
+CO2: Implement advanced trees and graph topologies for high-throughput computing.
+CO3: Apply dynamic programming strategies to optimization challenges.
